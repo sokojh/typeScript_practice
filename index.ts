@@ -27,4 +27,5 @@ let project :{member:[String,String]//이렇게해도 되지만 두개만 올수
   days : 30,
   started : true,
 }
-console.log(project)
+console.log(좋아하는거)
+
